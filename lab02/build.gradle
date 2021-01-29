@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'io.github.qsy7.java.modules.csv.modules:apache-commons-csv:0.1.0'
+  implementation 'org.apache.commons:commons-csv:1.8'
 }
 
 mainClassName = 'csci2020u.lab02.SimpleTest'
